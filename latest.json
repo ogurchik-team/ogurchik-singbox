@@ -1,9 +1,1 @@
-{
-  "version": "1.14.1",
-  "windows-amd64": {
-    "url": "https://github.com/ogurchik-team/ogurchik-singbox/releases/latest/download/sing-box-windows-amd64.zip",
-    "size": 29689738,
-    "sha256": "5ca507cca662b592c47e6b7f8cf6b6419c8ef557a499ef3380c98bdca2686a04"
-  },
-  "min_supported_version": "0.0.0"
-}
+{"version": "1.14.2", "windows-amd64": {"url": "https://github.com/ogurchik-team/ogurchik-singbox/releases/latest/download/sing-box-windows-amd64.zip", "size": 29691809, "sha256": "6e3123bc9e2707aa160ac8b56e5b50aa6931dc3d9cf421dfd627ff1e8bc29ce3"}, "min_supported_version": "0.0.0"}
